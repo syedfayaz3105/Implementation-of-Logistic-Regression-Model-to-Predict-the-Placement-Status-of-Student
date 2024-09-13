@@ -78,13 +78,11 @@ y_pred
 ## Output:
 
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![Uploading 316212969-12bb2274-5169-4b9b-987b-781fbb47f0fa.png…]()
-![316212978-27aad290-0a32-45fa-a264-5245c8480a2b](https://github.com/user-attachments/assets/c0dba3e4-0eca-4a44-ac5a-17538db21bee)
-![316212992-8f50e42e-42dd-4fd4-b334-9ba88ebbbf9d](https://github.com/user-attachments/assets/67587495-8a0b-4d0e-8cc8-a3994d666ea8)
-![Uploading 316212999-ff4b62be-c03c-4370-898f-8c6cdbb78095.png…]()
-![Uploading 316213027-267da2db-54e5-425c-921a-4c59b1e7f6ab.png…]()
+![316212992-8f50e42e-42dd-4fd4-b334-9ba88ebbbf9d](https://github.com/user-attachments/assets/2fc0657f-732b-43ac-b3e8-09c3c387ae81)
+![316212999-ff4b62be-c03c-4370-898f-8c6cdbb78095](https://github.com/user-attachments/assets/cc62fca3-573b-4edd-abd2-dd75321e407b)
+![316213027-267da2db-54e5-425c-921a-4c59b1e7f6ab](https://github.com/user-attachments/assets/34d28793-3c42-4430-8cf7-f46bd66681ab)
+![316213037-8eaa8827-2756-40a2-8671-44b3bd6a2ce5](https://github.com/user-attachments/assets/d5f13a72-cf96-48de-8f1d-36d36c0b7a6f)
 
-![316213037-8eaa8827-2756-40a2-8671-44b3bd6a2ce5](https://github.com/user-attachments/assets/f34a1ccb-8ea9-40e0-a016-cd231623db26)
 
 
 ## Result:
