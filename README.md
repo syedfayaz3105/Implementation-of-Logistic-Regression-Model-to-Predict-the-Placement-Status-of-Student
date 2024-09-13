@@ -76,8 +76,7 @@ y_pred
 ```
 
 ## Output:
-
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![316212969-12bb2274-5169-4b9b-987b-781fbb47f0fa](https://github.com/user-attachments/assets/9d94a240-b858-4827-8fab-fc955ffa41ce)
 ![316212992-8f50e42e-42dd-4fd4-b334-9ba88ebbbf9d](https://github.com/user-attachments/assets/2fc0657f-732b-43ac-b3e8-09c3c387ae81)
 ![316212999-ff4b62be-c03c-4370-898f-8c6cdbb78095](https://github.com/user-attachments/assets/cc62fca3-573b-4edd-abd2-dd75321e407b)
 ![316213027-267da2db-54e5-425c-921a-4c59b1e7f6ab](https://github.com/user-attachments/assets/34d28793-3c42-4430-8cf7-f46bd66681ab)
